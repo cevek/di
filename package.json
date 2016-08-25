@@ -1,6 +1,6 @@
 {
-  "name": "di",
-  "version": "1.0.0",
+  "name": "dits",
+  "version": "1.0.1",
   "description": "Simple dependency injection for node.js",
   "main": "index.js",
   "keywords": ["di", "service locator", "dependency injection"],
